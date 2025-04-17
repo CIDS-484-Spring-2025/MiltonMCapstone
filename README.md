@@ -1,54 +1,5 @@
 # MiltonMCapstone
 
-1. Introduction
-Definition of Cybercrime -
-  Criminal activities involving computers, networks, or digital devices.
+Cybercrime refers to illegal activities that are carried out using computers, digital devices, or the internet. As our lives become increasingly connected through technology, cybercriminals have found new ways to exploit systems, steal data, and disrupt services. From identity theft and phishing scams to large-scale ransomware attacks and breaches of national security, cybercrime is a rapidly growing threat that affects individuals, businesses, and governments alike.
 
-Importance of the Topic -
-  Increasing reliance on technology makes individuals and businesses vulnerable.
-
-Presentation Overview
-      Types of cybercrime
-
-3. Types of Cybercrime 
-  Hacking & Data Breaches – Unauthorized access to systems or data.
-
-  Phishing & Social Engineering – Deceptive emails or messages to steal information.
-
-  Ransomware & Malware Attacks – Malicious software that encrypts files and demands payment.
-
-  Identity Theft & Financial Fraud – Using stolen personal information for fraud.
-
-  Cyberstalking & Online Harassment – Threats, bullying, and harassment via digital platforms.
-
-  Illegal Online Activities – Dark web transactions, drug trafficking, human trafficking, etc.
-
-4. Impact of Cybercrime 
-Economic Consequences – Losses in billions, business downtime.
-
-Personal & Social Impact – Identity theft, mental health effects of cyber harassment.
-
-National Security Threats – Cyberterrorism, espionage, and critical infrastructure attacks.
-
-6. Prevention Strategies 
-Personal Cybersecurity Measures 
-- Strong passwords & multi-factor authentication.
-- Recognizing phishing attempts.
--Regular software updates.
-
-Business & Organizational Security
-  - Employee training on cybersecurity.
-  - Investing in security software and firewalls.
-  - Implementing data encryption and backups.
-    
-Government & Legal Measures
-  - Cybercrime laws (e.g., Computer Fraud and Abuse Act).
-  - International cooperation against cyber threats.
-
-7. Conclusion & Call to Action (2-3 minutes)
-Key Takeaways
-  - Cybercrime is evolving and affects everyone.
-  - Awareness and proactive security measures are crucial.
-  - Governments, businesses, and individuals must collaborate to combat cyber threats.
-    
-Questions and Discussion
+This project/paper explores the different types of cybercrime, its causes, major real-world incidents, and the legal and technological measures being taken to combat it. Understanding cybercrime is essential for building awareness and developing strategies to stay protected in the digital age.
